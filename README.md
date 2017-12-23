@@ -9,5 +9,5 @@ Minesweeper clone created in Unity
 * Unity
 * Visual Studio 2017
 
-##Aknowlegdements
+## Aknowlegdements
 Original tutorial followed from noobtuts.com to build base game and sprites
